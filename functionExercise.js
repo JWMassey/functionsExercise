@@ -42,7 +42,7 @@ const manOrMuppet = function (){console.log("Am I a man or am I a Muppet?")};
 rainbowConnection = () => "Someday we'll find it. The Rainbow Connection. The lovers, the dreamers and me";
 
 //8, No
-//9, No
+//9, Yes
 
 //10a
 const newMuppetsMovies = ["The Muppets", "Muppets Most Wanted"];
