@@ -12,7 +12,7 @@ function beaker(speak){
         console.log(speak);
     }
 }
-beak("Meep");
+beaker("Meep");
 
 //3
 function muppetShow(a, b){
